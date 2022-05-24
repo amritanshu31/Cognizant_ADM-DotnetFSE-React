@@ -1,4 +1,4 @@
-# Cognizant_ADM-FSE-Dotnet-React-Integrated-Learning-Path_Handson
+# Cognizant_ADM-FSE-Dotnet-React-Integrated-Learning-Path
 
 Learn to design web pages, DotNet programming and database development. Technologies covered as part of this learning path are:
 - Web Designing using HTML5, CSS3, JavaScript, Bootstrap and JQuery
